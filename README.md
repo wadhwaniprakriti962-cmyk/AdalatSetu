@@ -86,7 +86,7 @@ Our Citation Integrity Checker autonomously pays an external legal-verification 
 
 ## 👥 Team CodeCubed
 
-| Member | Focus |
+| Member | Focus | 
 |---|---|
 | Vidushi Kesharwani | Backend / Database |
 | Aditi Jha | AI / ML / Scheduler |
