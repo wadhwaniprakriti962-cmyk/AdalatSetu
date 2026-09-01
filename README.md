@@ -98,7 +98,7 @@ VIT Bhopal University
 
 ```bash
 # Frontend
-cd FRONTEND
+cd AdalatSetu-FRONTEND
 npm install
 npm run dev
 
