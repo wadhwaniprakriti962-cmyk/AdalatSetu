@@ -96,7 +96,7 @@ VIT Bhopal University
 
 ```bash
 # Frontend
-cd frontend
+cd FRONTEND
 npm install
 npm run dev
 
