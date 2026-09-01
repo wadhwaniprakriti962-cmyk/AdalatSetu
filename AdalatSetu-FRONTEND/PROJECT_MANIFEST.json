@@ -1,0 +1,37 @@
+{
+  "project": "AdalatSetu",
+  "files": [
+    "README.md",
+    "index.html",
+    "package.json",
+    "postcss.config.js",
+    "src/App.jsx",
+    "src/components/common.jsx",
+    "src/components/layout.jsx",
+    "src/context/AppContext.jsx",
+    "src/data/mockData.js",
+    "src/index.css",
+    "src/main.jsx",
+    "src/pages/JudgePages.jsx",
+    "src/pages/LandingPage.jsx",
+    "src/pages/LitigantPages.jsx",
+    "src/pages/RegistrarPages.jsx",
+    "tailwind.config.js",
+    "vercel.json",
+    "vite.config.js"
+  ],
+  "routes": [
+    "/",
+    "/litigant",
+    "/litigant/case/:cnr",
+    "/registrar/verify",
+    "/registrar/citation",
+    "/registrar/citation/payment",
+    "/registrar/docket",
+    "/registrar/analytics",
+    "/judge/docket",
+    "/judge/cases",
+    "/judge/docket-health",
+    "/judge/cases/:caseId"
+  ]
+}
