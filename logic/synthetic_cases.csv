@@ -1,0 +1,101 @@
+case_id,case_type,num_parties,num_witnesses,num_sections,page_count,filing_date,party_age,custody_months,disability,poverty_line,legal_aid,urgent_relief,complexity,est_minutes,cluster,priority_flags
+CC-2024-100,Cheque Bounce (NI 138),2,0,2,9,2024-04-05,69,0,False,False,False,False,Simple,15,simple_block,
+MV-2024-101,Traffic / Motor Vehicle,1,0,1,3,2024-04-17,60,0,True,False,False,False,Simple,10,simple_block,disability
+HMA-2024-102,Mutual Consent Divorce,2,3,3,16,2024-01-25,73,0,False,False,False,False,Medium,25,medium_block,
+CS-2024-103,Property Dispute,4,2,1,36,2024-02-12,44,0,False,False,False,False,Medium,40,medium_block,
+SC-2024-104,Criminal (IPC/BNS),5,2,5,28,2024-11-20,45,3,False,False,True,False,Complex,65,complex_block,legal_aid
+CC-2024-105,Cheque Bounce (NI 138),2,1,2,13,2024-11-27,45,0,False,False,False,False,Simple,15,simple_block,
+MV-2024-106,Traffic / Motor Vehicle,1,0,1,3,2024-08-13,39,0,False,False,False,False,Simple,10,simple_block,
+HMA-2024-107,Mutual Consent Divorce,2,1,1,18,2024-07-09,26,0,False,False,False,False,Simple,15,simple_block,
+CS-2024-108,Property Dispute,7,8,4,53,2024-08-05,38,0,False,False,False,False,Complex,85,complex_block,
+SC-2024-109,Criminal (IPC/BNS),5,7,3,24,2024-03-17,53,0,False,True,False,False,Complex,80,complex_block,poverty_line
+CC-2024-110,Cheque Bounce (NI 138),2,1,2,15,2024-08-17,38,0,False,False,True,False,Simple,15,simple_block,legal_aid
+MV-2024-111,Traffic / Motor Vehicle,2,1,1,4,2024-07-06,51,0,True,False,False,False,Simple,10,simple_block,disability
+HMA-2024-112,Mutual Consent Divorce,2,0,3,17,2024-11-17,60,0,False,False,False,False,Simple,20,simple_block,
+CS-2024-113,Property Dispute,6,1,5,32,2024-08-01,29,0,False,False,False,False,Complex,60,complex_block,
+SC-2024-114,Criminal (IPC/BNS),2,4,5,15,2024-02-24,53,0,False,False,False,False,Medium,55,medium_block,
+CC-2024-115,Cheque Bounce (NI 138),2,1,2,9,2024-09-25,68,0,False,False,False,False,Simple,15,simple_block,
+MV-2024-116,Traffic / Motor Vehicle,2,1,2,2,2024-04-08,26,0,False,False,False,False,Simple,10,simple_block,
+HMA-2024-117,Mutual Consent Divorce,2,0,1,10,2024-01-28,43,0,False,False,False,False,Simple,15,simple_block,
+CS-2024-118,Property Dispute,3,8,2,42,2024-07-07,28,0,False,False,False,False,Complex,70,complex_block,
+SC-2024-119,Criminal (IPC/BNS),2,2,1,35,2024-12-11,73,0,False,False,False,False,Medium,40,medium_block,
+CC-2024-120,Cheque Bounce (NI 138),2,0,2,18,2024-09-04,25,0,False,False,True,False,Simple,15,simple_block,legal_aid
+MV-2024-121,Traffic / Motor Vehicle,1,0,2,5,2024-08-07,47,0,False,False,True,False,Simple,10,simple_block,legal_aid
+HMA-2024-122,Mutual Consent Divorce,3,2,2,25,2024-11-23,53,0,False,False,False,False,Medium,30,medium_block,
+CS-2024-123,Property Dispute,6,1,3,15,2024-01-19,52,0,False,False,False,False,Medium,50,medium_block,
+SC-2024-124,Criminal (IPC/BNS),2,3,1,48,2024-02-22,37,3,False,False,False,False,Medium,55,medium_block,
+CC-2024-125,Cheque Bounce (NI 138),2,1,1,16,2024-12-11,37,0,False,False,False,False,Simple,10,simple_block,
+MV-2024-126,Traffic / Motor Vehicle,1,0,2,6,2024-10-04,26,0,False,False,False,False,Simple,10,simple_block,
+HMA-2024-127,Mutual Consent Divorce,2,1,2,17,2024-03-15,75,0,False,False,False,False,Simple,20,simple_block,
+CS-2024-128,Property Dispute,6,1,5,31,2024-11-04,30,0,False,False,False,False,Complex,60,complex_block,
+SC-2024-129,Criminal (IPC/BNS),4,4,3,23,2024-11-21,90,0,False,False,False,False,Medium,55,medium_block,senior_citizen
+CC-2024-130,Cheque Bounce (NI 138),2,1,1,16,2024-05-06,69,0,False,False,False,False,Simple,10,simple_block,
+MV-2024-131,Traffic / Motor Vehicle,1,0,2,6,2024-09-05,49,0,False,False,False,False,Simple,10,simple_block,
+HMA-2024-132,Mutual Consent Divorce,2,2,1,15,2024-11-04,44,0,False,False,False,False,Simple,15,simple_block,
+CS-2024-133,Property Dispute,3,4,2,23,2024-07-01,33,0,False,False,False,False,Medium,50,medium_block,
+SC-2024-134,Criminal (IPC/BNS),3,5,2,16,2024-07-28,24,0,False,False,False,False,Medium,50,medium_block,
+CC-2024-135,Cheque Bounce (NI 138),2,0,1,16,2024-04-13,43,0,False,True,False,False,Simple,10,simple_block,poverty_line
+MV-2024-136,Traffic / Motor Vehicle,2,1,1,2,2024-05-06,59,0,False,False,False,False,Simple,10,simple_block,
+HMA-2024-137,Mutual Consent Divorce,3,3,3,24,2024-02-13,58,0,False,True,False,False,Medium,35,medium_block,poverty_line
+CS-2024-138,Property Dispute,6,4,3,39,2024-02-22,43,0,False,False,False,False,Complex,60,complex_block,
+SC-2024-139,Criminal (IPC/BNS),4,7,3,35,2024-12-10,57,0,False,False,False,False,Complex,70,complex_block,
+CC-2024-140,Cheque Bounce (NI 138),2,1,1,10,2024-05-07,49,0,False,False,False,False,Simple,10,simple_block,
+MV-2024-141,Traffic / Motor Vehicle,1,1,1,7,2024-02-10,54,0,False,False,True,False,Simple,10,simple_block,legal_aid
+HMA-2024-142,Mutual Consent Divorce,2,2,1,14,2024-03-01,86,0,False,False,False,False,Simple,15,simple_block,senior_citizen
+CS-2024-143,Property Dispute,7,4,4,43,2024-07-08,31,0,False,True,False,False,Complex,75,complex_block,poverty_line
+SC-2024-144,Criminal (IPC/BNS),2,7,2,21,2024-12-17,51,0,False,False,False,False,Medium,55,medium_block,
+CC-2024-145,Cheque Bounce (NI 138),2,1,2,14,2024-08-06,69,0,False,False,False,False,Simple,15,simple_block,
+MV-2024-146,Traffic / Motor Vehicle,2,1,1,4,2024-08-03,67,0,False,False,False,False,Simple,10,simple_block,
+HMA-2024-147,Mutual Consent Divorce,2,1,1,20,2024-12-05,67,0,False,False,False,False,Simple,20,simple_block,
+CS-2024-148,Property Dispute,2,4,4,36,2024-10-23,85,0,False,False,False,False,Medium,55,medium_block,senior_citizen
+SC-2024-149,Criminal (IPC/BNS),4,7,4,44,2024-12-24,56,0,False,False,False,False,Complex,80,complex_block,
+CC-2024-150,Cheque Bounce (NI 138),2,2,1,13,2024-03-20,90,0,True,False,False,False,Simple,10,simple_block,"senior_citizen, disability"
+MV-2024-151,Traffic / Motor Vehicle,2,0,2,3,2024-01-09,46,0,False,False,False,False,Simple,10,simple_block,
+HMA-2024-152,Mutual Consent Divorce,3,3,2,10,2024-08-01,69,0,False,False,False,False,Medium,30,medium_block,
+CS-2024-153,Property Dispute,7,1,1,27,2024-04-27,23,0,False,False,False,False,Medium,50,medium_block,
+SC-2024-154,Criminal (IPC/BNS),3,8,3,33,2024-03-20,60,0,False,False,False,False,Complex,70,complex_block,
+CC-2024-155,Cheque Bounce (NI 138),2,2,2,12,2024-12-07,26,0,False,False,False,False,Simple,15,simple_block,
+MV-2024-156,Traffic / Motor Vehicle,2,0,1,4,2024-09-14,64,0,False,False,False,False,Simple,10,simple_block,
+HMA-2024-157,Mutual Consent Divorce,3,0,2,19,2024-11-27,51,0,False,False,False,False,Medium,25,medium_block,
+CS-2024-158,Property Dispute,4,8,4,39,2024-12-19,39,0,False,False,False,False,Complex,70,complex_block,
+SC-2024-159,Criminal (IPC/BNS),5,4,4,46,2024-10-22,46,0,False,False,False,False,Complex,80,complex_block,
+CC-2024-160,Cheque Bounce (NI 138),2,2,2,14,2024-01-17,34,0,False,False,False,False,Simple,15,simple_block,
+MV-2024-161,Traffic / Motor Vehicle,2,1,2,8,2024-01-03,40,0,False,False,False,False,Simple,10,simple_block,
+HMA-2024-162,Mutual Consent Divorce,3,2,2,25,2024-06-12,66,0,False,False,False,False,Medium,30,medium_block,
+CS-2024-163,Property Dispute,4,2,5,60,2024-12-06,34,0,False,False,False,False,Complex,60,complex_block,
+SC-2024-164,Criminal (IPC/BNS),4,2,2,28,2024-04-12,80,0,False,False,False,False,Medium,50,medium_block,senior_citizen
+CC-2024-165,Cheque Bounce (NI 138),2,2,2,7,2024-01-19,87,0,False,False,False,False,Simple,15,simple_block,senior_citizen
+MV-2024-166,Traffic / Motor Vehicle,1,0,2,5,2024-02-19,62,0,False,False,False,False,Simple,10,simple_block,
+HMA-2024-167,Mutual Consent Divorce,2,1,1,25,2024-07-20,60,0,False,False,False,False,Simple,20,simple_block,
+CS-2024-168,Property Dispute,5,5,5,39,2024-05-19,61,0,False,False,True,False,Complex,70,complex_block,legal_aid
+SC-2024-169,Criminal (IPC/BNS),3,5,1,20,2024-04-06,57,8,False,True,False,False,Medium,55,medium_block,"undertrial, poverty_line"
+CC-2024-170,Cheque Bounce (NI 138),2,2,2,7,2024-11-08,38,0,False,False,False,False,Simple,15,simple_block,
+MV-2024-171,Traffic / Motor Vehicle,2,0,1,7,2024-03-09,74,0,False,True,False,False,Simple,10,simple_block,poverty_line
+HMA-2024-172,Mutual Consent Divorce,3,3,1,22,2024-12-10,66,0,False,False,False,False,Medium,35,medium_block,
+CS-2024-173,Property Dispute,6,1,4,59,2024-06-20,38,0,True,False,False,False,Complex,65,complex_block,disability
+SC-2024-174,Criminal (IPC/BNS),2,5,5,12,2024-03-16,55,0,False,False,False,False,Medium,55,medium_block,
+CC-2024-175,Cheque Bounce (NI 138),2,1,2,12,2024-06-11,64,0,False,False,False,False,Simple,15,simple_block,
+MV-2024-176,Traffic / Motor Vehicle,2,0,2,2,2024-06-09,42,0,False,False,False,False,Simple,10,simple_block,
+HMA-2024-177,Mutual Consent Divorce,2,3,2,9,2024-04-17,84,0,False,False,False,False,Medium,25,medium_block,senior_citizen
+CS-2024-178,Property Dispute,6,3,3,40,2024-12-16,29,0,True,False,False,False,Complex,70,complex_block,disability
+SC-2024-179,Criminal (IPC/BNS),4,1,5,36,2024-02-08,75,0,False,False,False,False,Medium,55,medium_block,
+CC-2024-180,Cheque Bounce (NI 138),2,1,2,13,2024-04-15,57,0,False,False,False,False,Simple,15,simple_block,
+MV-2024-181,Traffic / Motor Vehicle,1,0,2,8,2024-07-11,72,0,False,False,False,False,Simple,10,simple_block,
+HMA-2024-182,Mutual Consent Divorce,3,1,2,25,2024-08-12,43,0,False,False,False,False,Medium,30,medium_block,
+CS-2024-183,Property Dispute,3,4,5,36,2024-04-28,71,0,False,False,False,False,Complex,60,complex_block,
+SC-2024-184,Criminal (IPC/BNS),5,7,2,41,2024-01-05,54,30,False,False,False,False,Complex,85,complex_block,undertrial
+CC-2024-185,Cheque Bounce (NI 138),2,1,1,7,2024-08-26,38,0,False,False,False,False,Simple,10,simple_block,
+MV-2024-186,Traffic / Motor Vehicle,2,1,2,8,2024-09-02,61,0,False,False,False,False,Simple,10,simple_block,
+HMA-2024-187,Mutual Consent Divorce,2,3,1,28,2024-12-28,92,0,False,False,False,False,Medium,30,medium_block,senior_citizen
+CS-2024-188,Property Dispute,2,5,3,35,2024-07-05,37,0,False,False,False,False,Medium,45,medium_block,
+SC-2024-189,Criminal (IPC/BNS),2,7,5,25,2024-08-19,31,0,False,False,False,False,Complex,70,complex_block,
+CC-2024-190,Cheque Bounce (NI 138),2,2,1,7,2024-08-12,59,0,False,False,False,False,Simple,10,simple_block,
+MV-2024-191,Traffic / Motor Vehicle,2,0,2,8,2024-08-04,37,0,False,False,False,False,Simple,10,simple_block,
+HMA-2024-192,Mutual Consent Divorce,2,3,2,8,2024-10-28,65,0,False,False,False,False,Medium,25,medium_block,
+CS-2024-193,Property Dispute,4,4,5,34,2024-04-21,34,0,False,False,False,False,Complex,60,complex_block,
+SC-2024-194,Criminal (IPC/BNS),3,2,1,29,2024-08-02,59,0,False,False,False,False,Medium,45,medium_block,
+CC-2024-195,Cheque Bounce (NI 138),2,2,2,8,2024-05-27,52,0,False,False,False,False,Simple,15,simple_block,
+MV-2024-196,Traffic / Motor Vehicle,2,0,1,8,2024-04-28,65,0,False,False,False,False,Simple,10,simple_block,
+HMA-2024-197,Mutual Consent Divorce,3,0,2,8,2024-05-18,29,0,False,False,False,False,Medium,25,medium_block,
+CS-2024-198,Property Dispute,7,6,1,55,2024-04-16,23,0,False,False,False,False,Complex,75,complex_block,
+SC-2024-199,Criminal (IPC/BNS),2,8,3,36,2024-02-05,24,0,False,False,False,True,Medium,55,medium_block,urgent_relief
